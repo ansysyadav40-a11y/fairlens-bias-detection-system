@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Data
+uploads/
+temp_*/
+*.db
+*.log
