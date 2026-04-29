@@ -88,4 +88,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-**Developed with ❤️ by [Ansy Yadav](https://github.com/ansysyadav40-a11y), [Krishna Ransing](https://github.com/Krishna-8218),**
+**Developed with ❤️ by [Ansy Yadav](https://github.com/ansysyadav40-a11y), [Krishna Ransing](https://github.com/Krishna-8218), [Mansi Kardile](https://github.com/mansikardile), [Tanushree Waddaman]**
